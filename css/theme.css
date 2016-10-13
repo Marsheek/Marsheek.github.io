@@ -71,7 +71,16 @@ img {
 .contact{
   font-family: 'Revalia', cursive;
   margin-top: 20px;
+}
 
+.contact2{
+  font-family: 'Revalia', cursive;
+  margin-left:auto;
+  margin-right:auto;
+  display:center;
+}
+.text-center{
+  text-align: center;
 }
 
 .social-buttons .btn-circle {
